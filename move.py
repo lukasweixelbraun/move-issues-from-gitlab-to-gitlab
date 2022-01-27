@@ -24,7 +24,7 @@ GITLAB_OLD_TOKEN = 'your-access-token-old-gitlab'
 GITLAB_OLD_PROJECT = 'gitlab-group/gitlab-project'
 GITLAB_OLD_PROJECT_ID = 2
 
-# For downloading Attachments!
+# Your gitlab credentials for downloading Attachments
 GITLAB_OLD_USERNAME = 'user'
 GITLAB_OLD_PASSWORD = 'password'
 
