@@ -5,7 +5,7 @@ Python 3 Script for moving issues from one gitlab to another.
 
 Make sure that the gitlab user is assigned to your gitlab project and exists in the user mapping inside the Script. 
 
-The user has to be an ***Owner***. This is required for setting specific gitlab_issue_ids to match with the jira ticket numbers.
+The user has to be an ***Owner***. This is required for setting specific gitlab_issue_ids to match with the previous ticket numbers.
 
 Before you start the Script make sure you have set all the variables inside the script:
 
